@@ -15,3 +15,4 @@ resources:
   - resources/bookinfo-deployments.yaml
   - resources/destination-rule-all.yaml
   - resources/bookinfo-gateway.yaml
+  - resources/virtual-service.yaml
